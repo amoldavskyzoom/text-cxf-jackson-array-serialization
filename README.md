@@ -1,0 +1,1 @@
+# text-cxf-jackson-array-serialization
